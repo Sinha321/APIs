@@ -29,6 +29,9 @@
 *  ![image](https://github.com/Sinha321/APIs/assets/116704941/1ecdd2e3-2c85-4a74-b244-c8440dde19e2)
 *  CREATE : creating a customer
 *  ![image](https://github.com/Sinha321/APIs/assets/116704941/182efdf7-7e7d-40c2-9408-077b2e6f69b8)
+*  Reducing the if..else block of codes from the nodeJS programs gives rise to ExpressJS
+*  An environment variable is a variable which is the part of the environment where the process runs
+*  
 
 
 
